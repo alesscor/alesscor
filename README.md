@@ -1,3 +1,7 @@
+
+<!---
+<link rel="me" href="https://techhub.social/@alesscor"/>
+--->
 - 👋 Hi, I’m @alesscor, Alessandro Cordero Salazar
 - 👀 I’m interested in Software Engineering, Project Management and the Software Development Full Stack.
 - 🌱 I’m currently learning PowerBI
