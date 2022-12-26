@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software Engineering, Project Management and the Software Development Full Stack.
 - ♥ Currently loving KNIME Analytics Platform.
 - 🌱 I’m currently learning PowerBI
-- 💞️ I’m looking to collaborate on Data Science applied to Water Management.
+- 💞️ I’m looking to collaborate on Data Science applied to Water Management. An example on precipitation in Costa Rica and its antipode (Banten and Jawa Barat in Indonesia) [here](https://github.com/alesscor/Measuring-Water-Collection).
 - 📫 How to reach me? By **alesscor** at **gmail** dot **com** and <a rel="me" href="https://techhub.social/@alesscor">Mastodon</a>
 
 <!---
